@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Buku Oren",
+    "price": 9000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  },
+  {
+    "id": 2,
+    "title": "Buku Ungu",
+    "price": 18000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  },
+  {
+    "id": 3,
+    "title": "Buku Putih",
+    "price": 21000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  },
+  {
+    "id": 4,
+    "title": "Buku Merah",
+    "price": 31000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  },
+  {
+    "id": 5,
+    "title": "Buku Kuning",
+    "price": 10000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  },
+  {
+    "id": 6,
+    "title": "Si Oren",
+    "price": 11000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  },
+  {
+    "id": 7,
+    "title": "Si Oren",
+    "price": 31000.0,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Buku",
+    "image": "https://noxin2k.github.io/Images/orange.png"
+  }
+]
